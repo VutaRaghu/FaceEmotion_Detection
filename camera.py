@@ -8,7 +8,6 @@ Created on Wed Sep  9 10:54:10 2020
 
 import cv2
 from keras.models import load_model
-from time import sleep
 from keras.preprocessing.image import img_to_array
 from keras.preprocessing import image
 import cv2

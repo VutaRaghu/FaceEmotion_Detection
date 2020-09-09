@@ -1,5 +1,4 @@
 opencv-python
-cv2
 flask
 Keras<=2.4.3
 Keras-Preprocessing<=1.1.2
